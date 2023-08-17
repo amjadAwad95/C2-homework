@@ -1,0 +1,8 @@
+Staff Johnson  1994  65000
+Manager Thomas 2003 97000
+Staff Olson 2004 52000
+Parttime Lewis 2006 25 12.50
+Fulltime Campion 2005 40 18.75
+Manager Davis 1996 105000
+Parttime Wiley 2007 15 9.75
+Fulltime Parsons 2002 40 22.50

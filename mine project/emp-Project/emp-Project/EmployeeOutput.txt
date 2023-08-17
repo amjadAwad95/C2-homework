@@ -1,0 +1,8 @@
+Johnson Monthly Pay:5416.67 Annual Pay: 65000
+Thomas Monthly Pay:8083.33 Annual Pay: 106700
+Olson Monthly Pay:4333.33 Annual Pay: 52000
+Lewis Monthly Pay:1250 Annual Pay: 1250
+Campion Monthly Pay:3000 Annual Pay: 975
+Davis Monthly Pay:8750 Annual Pay: 115500
+Wiley Monthly Pay:585 Annual Pay: 750
+Parsons Monthly Pay:3600 Annual Pay: 1170

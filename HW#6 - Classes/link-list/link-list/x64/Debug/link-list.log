@@ -1,0 +1,46 @@
+﻿  Source.cpp
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(94,16): error C2440: 'initializing': cannot convert from 'Node<T> *' to 'Node<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(94,16): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(93,8): message : while compiling class template member function 'bool List<int>::in(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\Source.cpp(28,22): message : see the first reference to 'List<int>::in' in 'main'
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\Source.cpp(8,12): message : see reference to class template instantiation 'List<int>' being compiled
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(95,1): error C2819: type 'Node<T>' does not have an overloaded member 'operator ->'
+          with
+          [
+              T=int
+          ]
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(11,2): message : see declaration of 'Node<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(95,1): message : did you intend to use '.' instead?
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(95,1): error C2232: '->Node<T>::next': left operand has 'class' type, use '.'
+          with
+          [
+              T=int
+          ]
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(96): error C2819: type 'Node<T>' does not have an overloaded member 'operator ->'
+          with
+          [
+              T=int
+          ]
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(11,2): message : see declaration of 'Node<T>'
+          with
+          [
+              T=int
+          ]
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(96): message : did you intend to use '.' instead?
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\HW#6 - Classes\link-list\link-list\List.h(96): error C2232: '->Node<T>::data': left operand has 'class' type, use '.'
+          with
+          [
+              T=int
+          ]

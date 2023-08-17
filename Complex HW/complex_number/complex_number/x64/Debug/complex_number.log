@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\Complex HW\complex_number\complex_number\Source.cpp(132,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\Complex HW\complex_number\complex_number\Source.cpp(135,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  complex_number.vcxproj -> C:\Users\GIGABYTE\Desktop\CAP\programing\homeWorks\Complex HW\complex_number\x64\Debug\complex_number.exe
